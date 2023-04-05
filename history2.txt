@@ -1,0 +1,59 @@
+   0 whoami
+   1 mkdir -p /home/user/start/ && touch /home/user/start/1.txt
+   2 ls
+   3 ls /home/
+   4 cd /home/
+   5 tree
+   6 tree /opt
+   7 cd /start
+   8 ls
+   9 cat > 1.txt
+  10 ls
+  11 tree
+  12 cd /root
+  13 mkdir -p /opt/task && touch /opt/task/start.txt
+  14 cd /opt
+  15 tree
+  16 ls task
+  17 cd /root
+  18 cp -r /home/user/start/1.txt /opt/task/start.txt
+  19 tree
+  20 tree /opt
+  21 ls opt
+  22 ls task
+  23 cd /opt
+  24 ls task
+  25 ls 
+  26 ls task
+  27 cat > start.txt
+  28 date
+  29 cd /home/
+  30 date
+  31 cd /root
+  32 cp -r /home/user/start/1.txt /opt/task/start.txt
+  33 ls /opt
+  34 cp /home/user/start/1.txt /opt/task/start.txt
+  35 tree /opt
+  36 cp /home/user/start/1.txt /opt/
+  37 tree /opt
+  38 ls 1.txt
+  39 ls star
+  40 cd /opt
+  41 ls task
+  42 cat start.txt
+  43 cat 1.txt
+  44 cat > 1.txt
+  45 cat 1.txt
+  46 date
+  47 cat >> 1.txt
+  48 cat 1.txt
+  49 cd /opt
+  50 tree /home/
+  51 tree /opt
+  52 history > history.txt
+  53 cd
+  54 history > history2.txt
+  55 export_file history.txt
+  56 cd /opt
+  57 tree 
+  58 history > history2.txt
